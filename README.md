@@ -86,15 +86,15 @@
 
 ## 💼 Work/Portfolio
 
-- [Portfolio Website](https://drive.google.com/file/d/17gY2yxXoaMFOn5ORu_3kSCX6Wlg1_swj/view?usp=drivesdk)
-- [Resume](YOUR_RESUME_URL)
+- [Portfolio Website](https://elaborate-dango-e66f8f.netlify.app/)
+- [Resume](https://drive.google.com/file/d/17gY2yxXoaMFOn5ORu_3kSCX6Wlg1_swj/view?usp=drivesdk)
 
 ## 📫 How to reach me:
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendrakumarfs/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/GitShailendra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://elaborate-dango-e66f8f.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shailendrakumarsrgi@gmail.com)
 
 </div>
