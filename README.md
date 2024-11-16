@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me:
 - 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Advanced System Design & Cloud Technologies**
+- 🌱 I'm currently learning **DATA STRUCTURES & ALGORITHM**
 - 👯 I'm looking to collaborate on **Open Source & Full Stack Projects**
 - 🤝 I'm looking for help with **System Design & Architecture**
 - 💬 Ask me about **MERN Stack, DSA, System Design**
@@ -72,9 +72,10 @@
 
 ## 🌟 Highlighted Projects
 <div align="center">
-  <a href="https://github.com/GitShailendra/your-best-project">
+  <a href="https://github.com/GitShailendra/wanderlust-proj">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GitShailendra&repo=your-best-project&theme=radical" />
   </a>
+  
   <!-- Add more pinned repositories as needed -->
 </div>
 
